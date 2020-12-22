@@ -1,0 +1,46 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+
+.nav_link{
+    text-decoration: none;
+    color: darkblue;
+}
+
+.nav{
+    list-style: none;
+}
+
+.nav li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav li a{
+    transition: all 0.3s ease 0s;
+}
+
+.nav li a:hover{
+   color: rgb(194, 74, 74);
+}
+
+
+
+.socialsButton{
+    font-style: none;
+    padding: 9px 25px;
+    background-color: rgba(0,136,169,0.8);
+    border: none;
+    border-radius: 50px;
+    transition: all 0.3s ease 0s;
+    text-decoration: none;
+    color: darkblue;
+}
+
+.socialsButton:hover{
+    background-color: rgba(0,136,169,1);
+}

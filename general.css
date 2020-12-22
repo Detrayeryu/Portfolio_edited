@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital@1&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+    text-decoration: none;
+}
+
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    border-bottom: black solid;
+    margin: 0px 300px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+
+body{
+    background-color: #82BEF3;
+    font-family: "Zilla+Slab", sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0;
+    line-height: 30px;
+    color: peachpuff;
+}
+
+
+.section{
+    margin: 0px 450px;
+    border: 2px black solid;
+    padding: 10px 10px 50px 50px;
+    border-radius: 10px;
+    background-color:#1D88EA;
+}
+
+.divider{
+    padding: 10px 0px;
+    
+}
+
+.links{
+    text-decoration:none;
+    color: #FF69B4;
+}
+
+.links:active{
+    color: orange;
+}
+
+.des_text{
+    text-align: center;
+    font-weight: 600;
+    color: darkblue;
+}
+
+.upArrow{
+    position: fixed;
+    bottom: 30px;
+    right: 50px;
+    height: 100px;
+    width: 100;
+    size: 1em;
+}
+
+.upArrowImage{
+    height: 80px;
+    width: 80;
+}

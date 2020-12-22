@@ -1,0 +1,25 @@
+.ach_photo{
+    margin: auto;
+    width: 50vw;
+    
+}
+
+.ach_photo img{
+    margin: auto;
+    width: 95%;
+    
+}
+
+.ach_text{
+    text-align: center;
+    color: navy;
+}
+
+.ach_div{
+    border-bottom: black solid;
+    margin-bottom: 20px;
+    margin-right: 25px;
+    margin-top: 10px;
+    border-style: dashed ;
+    background-color: #1D88EA;
+}

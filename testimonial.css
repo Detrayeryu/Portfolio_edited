@@ -1,0 +1,25 @@
+.test_photo{
+    margin: auto;
+    width: 50vw;
+    
+}
+
+.test_photo img{
+    margin: auto;
+    width: 95%;
+    
+}
+
+.test_text{
+    text-align: center;
+    color: navy;
+}
+
+.test_div{
+    border-bottom: black solid;
+    margin-bottom: 20px;
+    margin-right: 25px;
+    margin-top: 10px;
+    border-style: dashed ;
+    background-color: #1D88EA;
+}
